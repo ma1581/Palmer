@@ -1,8 +1,6 @@
-package com.ma1581.Palmer.Reddit;
+package com.ma1581.Palmer.service;
 
 
-import com.google.gson.internal.LinkedTreeMap;
-import com.ma1581.Palmer.RedisService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.http.*;

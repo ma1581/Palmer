@@ -1,4 +1,4 @@
-package com.ma1581.Palmer.Reddit;
+package com.ma1581.Palmer.models.reddit;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.annotation.JsonProperty;

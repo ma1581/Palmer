@@ -1,4 +1,4 @@
-package com.ma1581.Palmer;
+package com.ma1581.Palmer.config;
 
 import org.apache.kafka.clients.producer.ProducerConfig;
 import org.springframework.context.annotation.Bean;

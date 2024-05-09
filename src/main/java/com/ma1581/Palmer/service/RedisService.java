@@ -1,4 +1,4 @@
-package com.ma1581.Palmer;
+package com.ma1581.Palmer.service;
 
 import redis.clients.jedis.Jedis;
 import redis.clients.jedis.JedisPool;
